@@ -1,2 +1,2 @@
-# hyperflight
-go syperflight on steroids
+# Hyperflight
+Like singleflight but with generics
